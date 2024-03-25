@@ -1,0 +1,19 @@
+{
+  "name": "simple-calculator",
+  "version": "1.0.0",
+  "description": "simple calulator ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "simple calculator"
+  },
+  "keywords": [
+    "+-"
+  ],
+  "author": "Asad",
+  "license": "MIT"
+}
